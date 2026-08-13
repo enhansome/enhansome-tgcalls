@@ -1,0 +1,234 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MarshalX/tgcalls",
+          "description": "A Python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-09T19:21:32Z",
+            "owner": "MarshalX",
+            "repo": "tgcalls",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytgcalls/pytgcalls",
+          "description": "A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T12:17:04Z",
+            "owner": "pytgcalls",
+            "repo": "pytgcalls",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgcallsjs/tgcalls",
+          "description": "A Node.js library for playing music in voice chats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-24T09:23:40Z",
+            "owner": "tgcallsjs",
+            "repo": "tgcalls",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgcallsjs/gram-tgcalls",
+          "description": "A library that connects and GramJS to make it easier for you work with .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-11-30T14:27:32Z",
+            "owner": "tgcallsjs",
+            "repo": "gram-tgcalls",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotgcalls/tgcalls",
+          "description": "Interact with Telegram Calls using Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-01-20T12:09:39Z",
+            "owner": "UnmaintainedProjects",
+            "repo": "wqwq",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TheHamkerCat/Telegram_VC_Bot",
+          "description": "A bot that can play music from various sources in VC.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-04T15:07:14Z",
+            "owner": "TheHamkerCat",
+            "repo": "Telegram_VC_Bot",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon-Userbot",
+          "description": "Just a userbot with a module for voice chats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T11:11:31Z",
+            "owner": "Dragon-Userbot",
+            "repo": "Dragon-Userbot",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Player Bot",
+          "description": "An Advanced Video Player Bot based on is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T16:22:54Z",
+            "owner": "AsmSafone",
+            "repo": "VideoPlayerBot",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callsmusic/remix",
+          "description": "A bot that uses and to let you stream any kind of YouTube videos, including live ones and those in playlists, audio files and radios or links.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-09-24T18:55:20Z",
+            "owner": "callsmusic",
+            "repo": "remix",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callsmusic/tgvc-userbot",
+          "description": "A Voice Chat UserBot with playlist and Heroku support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-28T12:30:52Z",
+            "owner": "callsmusic",
+            "repo": "tgvc-userbot",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callsmusic/vcpb",
+          "description": "A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-14T12:29:11Z",
+            "owner": "callsmusic",
+            "repo": "vcpb",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArnabXD/TGVCBot",
+          "description": "A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T20:50:52Z",
+            "owner": "ArnabXD",
+            "repo": "TGVCBot",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCPlayerbot Bot",
+          "description": "An Audio/Video Player Bot based on (Video player is in dev branch). It can stream any YouTube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-15T06:48:23Z",
+            "owner": "kshubham506",
+            "repo": "vcplayerbot",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgcallsjs/LemonJamsBot",
+          "description": "A userbot that plays music in voice chats and is based on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-02T08:28:40Z",
+            "owner": "tgcallsjs",
+            "repo": "LemonJamsBot",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ohto Ai",
+          "description": "Yet another awesome, anime based, deployable, multi group, music bot based on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-06T06:53:06Z",
+            "owner": "Zack-Bloodshot",
+            "repo": "Ohto-Ai",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Open Source bots"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:35:12.081Z",
+    "original_repository": "tgcalls/awesome-tgcalls",
+    "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
+    "enhanced_repository": "enhansome/enhansome-tgcalls",
+    "enhanced_repository_description": null,
+    "title": "Awesome Telegram Calls with stars"
+  }
+}
