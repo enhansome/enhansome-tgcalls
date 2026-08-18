@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-16T12:17:04Z",
+            "last_commit": "2026-08-17T20:34:18Z",
             "owner": "pytgcalls",
             "repo": "pytgcalls",
             "stars": 430
@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:03:15.106Z",
+    "last_updated": "2026-08-18T08:55:17.058Z",
     "original_repository": "tgcalls/awesome-tgcalls",
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
     "enhanced_repository": "enhansome/enhansome-tgcalls",
