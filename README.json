@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318597435,
             "language": "Python",
             "last_commit": "2023-01-09T19:21:32Z",
             "owner": "MarshalX",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341369834,
             "language": "Python",
             "last_commit": "2026-08-17T20:34:18Z",
             "owner": "pytgcalls",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336132011,
             "language": "TypeScript",
             "last_commit": "2022-06-24T09:23:40Z",
             "owner": "tgcallsjs",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 382447335,
             "language": "TypeScript",
             "last_commit": "2023-11-30T14:27:32Z",
             "owner": "tgcallsjs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448364887,
             "language": "Go",
             "last_commit": "2022-01-20T12:09:39Z",
             "owner": "UnmaintainedProjects",
@@ -77,7 +82,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 326388546,
             "language": "Python",
             "last_commit": "2022-12-04T15:07:14Z",
             "owner": "TheHamkerCat",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272690859,
             "language": "Python",
             "last_commit": "2025-04-21T11:11:31Z",
             "owner": "Dragon-Userbot",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402441821,
             "language": "Python",
             "last_commit": "2023-03-05T16:22:54Z",
             "owner": "AsmSafone",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 384520525,
             "language": "TypeScript",
             "last_commit": "2022-09-24T18:55:20Z",
             "owner": "callsmusic",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 343624194,
             "language": "Python",
             "last_commit": "2022-01-28T12:30:52Z",
             "owner": "callsmusic",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324487746,
             "language": "Python",
             "last_commit": "2021-12-14T12:29:11Z",
             "owner": "callsmusic",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381404462,
             "language": "TypeScript",
             "last_commit": "2026-06-12T20:50:52Z",
             "owner": "ArnabXD",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372270536,
             "language": "Python",
             "last_commit": "2022-08-15T06:48:23Z",
             "owner": "kshubham506",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336158172,
             "language": "TypeScript",
             "last_commit": "2021-08-02T08:28:40Z",
             "owner": "tgcallsjs",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367806522,
             "language": "Python",
             "last_commit": "2023-10-06T06:53:06Z",
             "owner": "Zack-Bloodshot",
@@ -224,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:55:17.058Z",
+    "last_updated": "2026-08-19T08:56:53.250Z",
     "original_repository": "tgcalls/awesome-tgcalls",
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
     "enhanced_repository": "enhansome/enhansome-tgcalls",
