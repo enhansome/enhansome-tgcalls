@@ -27,7 +27,7 @@
             "archived": false,
             "id": 341369834,
             "language": "Python",
-            "last_commit": "2026-08-17T20:34:18Z",
+            "last_commit": "2026-08-20T19:10:12Z",
             "owner": "pytgcalls",
             "repo": "pytgcalls",
             "stars": 430
@@ -111,7 +111,7 @@
             "last_commit": "2025-04-21T11:11:31Z",
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:58:27.761Z",
+    "last_updated": "2026-08-21T09:00:26.926Z",
     "original_repository": "tgcalls/awesome-tgcalls",
     "original_repository_id": 351378321,
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
