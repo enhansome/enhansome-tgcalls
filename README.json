@@ -15,7 +15,7 @@
             "last_commit": "2023-01-09T19:21:32Z",
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 551
+            "stars": 550
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T00:31:54Z",
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 430
+            "stars": 432
           }
         },
         {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:02:20.616Z",
+    "last_updated": "2026-08-26T09:04:39.531Z",
     "original_repository": "tgcalls/awesome-tgcalls",
     "original_repository_id": 351378321,
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
