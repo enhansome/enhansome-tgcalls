@@ -24,7 +24,7 @@ The repository contains useful information for Telegram users who are looking fo
 ## Libraries
 
 * [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) ⭐ 550 | 🐛 12 | 🌐 Python | 📅 2023-01-09 - A Python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
-* [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) ⭐ 431 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
+* [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) ⭐ 430 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
 * [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) ⭐ 55 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-24 - A Node.js library for playing music in voice chats.
 * [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) ⚠️ Archived - A library that connects `tgcallsjs` and [GramJS](https://github.com/gram-js/gramjs) ⚠️ Archived to make it easier for you work with `tgcallsjs`.
 * [gotgcalls/tgcalls](https://github.com/gotgcalls/tgcalls) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2022-01-20 - Interact with Telegram Calls using Go.
