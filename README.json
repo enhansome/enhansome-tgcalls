@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T00:31:54Z",
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 432
+            "stars": 431
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2023-03-05T16:22:54Z",
             "owner": "AsmSafone",
             "repo": "VideoPlayerBot",
-            "stars": 245
+            "stars": 244
           }
         },
         {
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:04:39.531Z",
-    "original_repository": "tgcalls/awesome-tgcalls",
-    "original_repository_id": 351378321,
+    "last_updated": "2026-08-27T12:09:27.503Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 351378321,
+      "language": null,
+      "last_commit": "2024-02-27T19:42:05Z",
+      "owner": "tgcalls",
+      "repo": "awesome-tgcalls",
+      "stars": 110
+    },
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
     "enhanced_repository": "enhansome/enhansome-tgcalls",
     "enhanced_repository_description": null,
