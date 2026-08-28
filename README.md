@@ -38,7 +38,7 @@ The repository contains useful information for Telegram users who are looking fo
 
 * [TheHamkerCat/Telegram\_VC\_Bot](https://github.com/thehamkercat/Telegram_VC_Bot) ⚠️ Archived - A bot that can play music from various sources in VC.
 * [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) ⭐ 375 | 🐛 0 | 🌐 Python | 📅 2025-04-21 - Just a userbot with a module for voice chats.
-* [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) ⭐ 244 | 🐛 5 | 🌐 Python | 📅 2023-03-05 - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
+* [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) ⭐ 245 | 🐛 5 | 🌐 Python | 📅 2023-03-05 - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists, audio files and radios or links.
 * [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) ⚠️ Archived - A Voice Chat UserBot with playlist and Heroku support.
 * [callsmusic/vcpb](https://github.com/callsmusic/vcpb) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2021-12-14 - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
@@ -64,4 +64,4 @@ The repository contains useful information for Telegram users who are looking fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
