@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voice chats, private incoming and outgoing calls in Telegram for Developers",
+            "homepage": "https://t.me/tgcallslib",
             "id": 318597435,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-01-09T19:21:32Z",
+            "open_issues": 12,
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 550
+            "stars": 550,
+            "topics": [
+              "async",
+              "asynchronous",
+              "calls",
+              "ffmpeg",
+              "group-chat",
+              "lib",
+              "library",
+              "mtproto",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "realtime",
+              "telegram",
+              "telethon",
+              "tgcalls",
+              "video-call",
+              "voice",
+              "voice-chat",
+              "voip",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async client API for the Telegram Calls",
+            "homepage": "http://pytgcalls.github.io/",
             "id": 341369834,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-24T00:31:54Z",
+            "open_issues": 0,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "asynchronous",
+              "calls",
+              "ci-badge",
+              "ffmpeg",
+              "group-chat",
+              "lib",
+              "library",
+              "nadymov",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "stream",
+              "telegram",
+              "telethon",
+              "tgcalls",
+              "video-calls",
+              "video-chat",
+              "voice-chat",
+              "voip",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -42,12 +94,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for interacting with the Telegram group voice calls API.",
+            "homepage": "https://tgcallsjs.github.io/tgcalls/",
             "id": 336132011,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2022-06-24T09:23:40Z",
+            "open_issues": 1,
             "owner": "tgcallsjs",
             "repo": "tgcalls",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -58,12 +117,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "https://tgcallsjs.github.io/gram-tgcalls/",
+            "homepage": null,
             "id": 382447335,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2023-11-30T14:27:32Z",
+            "open_issues": 2,
             "owner": "tgcallsjs",
             "repo": "gram-tgcalls",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -74,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interact with Telegram calls using Go.",
+            "homepage": null,
             "id": 448364887,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2022-01-20T12:09:39Z",
+            "open_issues": 0,
             "owner": "UnmaintainedProjects",
             "repo": "wqwq",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         }
@@ -96,12 +167,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Telegram Voice Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
+            "homepage": "https://t.me/tgvcsupport",
             "id": 326388546,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-04T15:07:14Z",
+            "open_issues": 0,
             "owner": "TheHamkerCat",
             "repo": "Telegram_VC_Bot",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "bot",
+              "heroku",
+              "heroku-telegram",
+              "jiosaavn",
+              "music",
+              "pyrogram",
+              "pyrogram-bot",
+              "pytgcalls",
+              "python",
+              "song",
+              "telegram",
+              "telegram-bot",
+              "telegram-musicbot",
+              "telegram-vcbot",
+              "tgcalls",
+              "tgvcbot",
+              "theme",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -112,12 +207,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Userbot for telegram with easiest installation",
+            "homepage": null,
             "id": 272690859,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-21T11:11:31Z",
+            "open_issues": 0,
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "bot",
+              "dragon-userbot",
+              "music-player-bot",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "python3",
+              "self-bot-telegram",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-userbot",
+              "telegram-voice-chat",
+              "userbot",
+              "userbot-telegram",
+              "voice-chat",
+              "voice-chats"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -128,12 +246,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Telegram Bot By @AsmSafone To Stream Videos in Telegram Voice Chat. This is Also The Source Code of The Bot Which is Being Used In Our Support Group! ❤️",
+            "homepage": null,
             "id": 402441821,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-05T16:22:54Z",
+            "open_issues": 5,
             "owner": "AsmSafone",
             "repo": "VideoPlayerBot",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "bot",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2022",
+              "player",
+              "telegram",
+              "telegram-bot",
+              "tgvc",
+              "video",
+              "videoplayer"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -144,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powerful Telegram music bot.",
+            "homepage": null,
             "id": 384520525,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-09-24T18:55:20Z",
+            "open_issues": 1,
             "owner": "callsmusic",
             "repo": "remix",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -160,12 +299,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Telegram voice chat userbot made with Pyrogram and MarshalX/tgcalls with playlist support",
+            "homepage": "https://t.me/VCSets",
             "id": 343624194,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-01-28T12:30:52Z",
+            "open_issues": 3,
             "owner": "callsmusic",
             "repo": "tgvc-userbot",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "calls",
+              "group-chat",
+              "music-player-bot",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "telegram",
+              "telegram-userbot",
+              "telegram-voice-chat",
+              "tgcalls",
+              "voice-chat",
+              "voice-chats",
+              "voip"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -176,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[UNMAINTAINED] The first voice chat-related Telegram bot to be open-sourced. Uses MPV and has queue, stream & YouTube support.",
+            "homepage": null,
             "id": 324487746,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-12-14T12:29:11Z",
+            "open_issues": 0,
             "owner": "callsmusic",
             "repo": "vcpb",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -192,12 +355,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram VC Music Bot",
+            "homepage": "http://tgvcbot.vercel.app",
             "id": 381404462,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-12T20:50:52Z",
+            "open_issues": 4,
             "owner": "ArnabXD",
             "repo": "TGVCBot",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "music-bot-telegram",
+              "telegram",
+              "telegram-bot",
+              "tgvcbot",
+              "voice-chat-bot"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -208,12 +382,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play songs directly in telegram voice chats.",
+            "homepage": "https://t.me/voicechatsupport",
             "id": 372270536,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-15T06:48:23Z",
+            "open_issues": 5,
             "owner": "kshubham506",
             "repo": "vcplayerbot",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "bot",
+              "music",
+              "music-player",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "sktechhub",
+              "song",
+              "songs",
+              "telegram",
+              "telegram-bot",
+              "tgcalls",
+              "vc",
+              "vcplayer",
+              "video",
+              "video-call",
+              "video-player",
+              "voice-chat",
+              "voicechat",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -224,12 +424,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example bot using tgcallsjs.",
+            "homepage": null,
             "id": 336158172,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2021-08-02T08:28:40Z",
+            "open_issues": 2,
             "owner": "tgcallsjs",
             "repo": "LemonJamsBot",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         },
@@ -240,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Anime themed telegram vc music player, Do watch Wonder eggs priority btw !",
+            "homepage": null,
             "id": 367806522,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-06T06:53:06Z",
+            "open_issues": 3,
             "owner": "Zack-Bloodshot",
             "repo": "Ohto-Ai",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
         }
@@ -254,15 +466,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:13:13.313Z",
+    "last_updated": "2026-08-29T04:57:12.405Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of projects for Telegram Calls.",
+      "homepage": "https://t.me/tgcallslib",
       "id": 351378321,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-02-27T19:42:05Z",
+      "open_issues": 0,
       "owner": "tgcalls",
       "repo": "awesome-tgcalls",
-      "stars": 109
+      "stars": 109,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "calls",
+        "telegram",
+        "tgcalls"
+      ]
     },
     "original_repository_sha": "14b9775cfdd84b28383549ad2e884d140f476bb3",
     "enhanced_repository": "enhansome/enhansome-tgcalls",
