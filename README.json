@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "async",
               "asynchronous",
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "TheHamkerCat",
             "repo": "Telegram_VC_Bot",
-            "stars": 377,
+            "stars": 376,
             "topics": [
               "bot",
               "heroku",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:49:51.678Z",
+    "last_updated": "2026-08-31T16:11:35.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
