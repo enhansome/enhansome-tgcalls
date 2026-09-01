@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 430,
+            "stars": 429,
             "topics": [
               "asynchronous",
               "calls",
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "TheHamkerCat",
             "repo": "Telegram_VC_Bot",
-            "stars": 376,
+            "stars": 375,
             "topics": [
               "bot",
               "heroku",
@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "bot",
               "dragon-userbot",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:11:35.477Z",
+    "last_updated": "2026-09-01T13:31:16.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
