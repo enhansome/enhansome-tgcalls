@@ -24,7 +24,7 @@ The repository contains useful information for Telegram users who are looking fo
 ## Libraries
 
 * [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) ⭐ 551 | 🐛 12 | 🌐 Python | 📅 2023-01-09 - A Python library for playing music in voice chats. Supports recording, multiply chats, volume control, pause/resume, mute/unmute, speaking status.
-* [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) ⭐ 429 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
+* [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) ⭐ 429 | 🐛 1 | 🌐 Python | 📅 2026-09-02 - A simple async client for the Telegram group calls with API. Features: unlimited voice chats, volume control, pause/resume, low CPU usage (for 2 core processors), adjustable bitrate, join as channel, custom HTTP remote API, live stream and live FFmpeg support, anti-floodwait.
 * [tgcallsjs/tgcalls](https://github.com/tgcallsjs/tgcalls) ⭐ 55 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-24 - A Node.js library for playing music in voice chats.
 * [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) ⚠️ Archived - A library that connects `tgcallsjs` and [GramJS](https://github.com/gram-js/gramjs) ⚠️ Archived to make it easier for you work with `tgcallsjs`.
 * [gotgcalls/tgcalls](https://github.com/gotgcalls/tgcalls) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2022-01-20 - Interact with Telegram Calls using Go.
@@ -37,7 +37,7 @@ The repository contains useful information for Telegram users who are looking fo
 ## Open Source bots
 
 * [TheHamkerCat/Telegram\_VC\_Bot](https://github.com/thehamkercat/Telegram_VC_Bot) ⚠️ Archived - A bot that can play music from various sources in VC.
-* [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) ⭐ 374 | 🐛 0 | 🌐 Python | 📅 2025-04-21 - Just a userbot with a module for voice chats.
+* [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) ⭐ 375 | 🐛 0 | 🌐 Python | 📅 2025-04-21 - Just a userbot with a module for voice chats.
 * [Video Player Bot](https://github.com/AsmSafone/VideoPlayerBot) ⭐ 245 | 🐛 5 | 🌐 Python | 📅 2023-03-05 - An Advanced Video Player Bot based on `MarshalX/tgcalls` is created for streaming lives/YouTube video/video files in the voice chat of channels & groups.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - A bot that uses `gram-tgcalls` and `ytdl-core-telegram` to let you stream any kind of YouTube videos, including live ones and those in playlists, audio files and radios or links.
 * [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) ⚠️ Archived - A Voice Chat UserBot with playlist and Heroku support.
@@ -64,4 +64,4 @@ The repository contains useful information for Telegram users who are looking fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
