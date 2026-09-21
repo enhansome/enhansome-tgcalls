@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 432,
+            "stars": 431,
             "topics": [
               "asynchronous",
               "calls",
@@ -162,6 +162,46 @@
       "items": [
         {
           "node_type": "item",
+          "title": "TheHamkerCat/Telegram_VC_Bot",
+          "description": "A bot that can play music from various sources in VC.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Telegram Voice Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
+            "homepage": "https://t.me/tgvcsupport",
+            "id": 326388546,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-12-04T15:07:14Z",
+            "open_issues": 0,
+            "owner": "TheHamkerCat",
+            "repo": "Telegram_VC_Bot",
+            "stars": 376,
+            "topics": [
+              "bot",
+              "heroku",
+              "heroku-telegram",
+              "jiosaavn",
+              "music",
+              "pyrogram",
+              "pyrogram-bot",
+              "pytgcalls",
+              "python",
+              "song",
+              "telegram",
+              "telegram-bot",
+              "telegram-musicbot",
+              "telegram-vcbot",
+              "tgcalls",
+              "tgvcbot",
+              "theme",
+              "youtube"
+            ]
+          },
+          "first_seen": "2026-08-28T20:13:13.313Z"
+        },
+        {
+          "node_type": "item",
           "title": "Dragon-Userbot",
           "description": "Just a userbot with a module for voice chats.",
           "children": [],
@@ -195,46 +235,6 @@
               "userbot-telegram",
               "voice-chat",
               "voice-chats"
-            ]
-          },
-          "first_seen": "2026-08-28T20:13:13.313Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TheHamkerCat/Telegram_VC_Bot",
-          "description": "A bot that can play music from various sources in VC.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Telegram Voice Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-            "homepage": "https://t.me/tgvcsupport",
-            "id": 326388546,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-12-04T15:07:14Z",
-            "open_issues": 0,
-            "owner": "TheHamkerCat",
-            "repo": "Telegram_VC_Bot",
-            "stars": 375,
-            "topics": [
-              "bot",
-              "heroku",
-              "heroku-telegram",
-              "jiosaavn",
-              "music",
-              "pyrogram",
-              "pyrogram-bot",
-              "pytgcalls",
-              "python",
-              "song",
-              "telegram",
-              "telegram-bot",
-              "telegram-musicbot",
-              "telegram-vcbot",
-              "tgcalls",
-              "tgvcbot",
-              "theme",
-              "youtube"
             ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:04:11.288Z",
+    "last_updated": "2026-09-21T15:08:20.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
