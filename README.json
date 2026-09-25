@@ -57,7 +57,7 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T19:58:06Z",
+            "last_commit": "2026-09-25T13:30:25Z",
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 376,
+            "stars": 375,
             "topics": [
               "bot",
               "dragon-userbot",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:34:57.677Z",
+    "last_updated": "2026-09-25T13:52:09.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
