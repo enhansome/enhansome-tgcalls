@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 552,
+            "stars": 551,
             "topics": [
               "async",
               "asynchronous",
@@ -57,7 +57,7 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-06T19:35:26Z",
+            "last_commit": "2026-10-11T15:52:03Z",
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:56:24.218Z",
+    "last_updated": "2026-10-12T17:59:19.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
