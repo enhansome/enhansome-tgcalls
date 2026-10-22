@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:51:12.607Z",
+    "last_updated": "2026-10-22T13:50:01.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
@@ -475,7 +475,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-02-27T19:42:05Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "tgcalls",
       "repo": "awesome-tgcalls",
       "stars": 109,
