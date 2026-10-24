@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Voice chats, private incoming and outgoing calls in Telegram for Developers",
+            "description": "Voice and video calls in Telegram for Python",
             "homepage": "https://t.me/tgcallslib",
             "id": 318597435,
             "language": "Python",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "TheHamkerCat",
             "repo": "Telegram_VC_Bot",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "bot",
               "heroku",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:29:43.321Z",
+    "last_updated": "2026-10-24T12:43:35.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
