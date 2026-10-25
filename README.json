@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 376,
+            "stars": 375,
             "topics": [
               "bot",
               "dragon-userbot",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:43:35.622Z",
+    "last_updated": "2026-10-25T13:12:52.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
