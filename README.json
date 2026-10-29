@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 438,
+            "stars": 445,
             "topics": [
               "asynchronous",
               "calls",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:09:33.849Z",
+    "last_updated": "2026-10-29T15:15:25.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
