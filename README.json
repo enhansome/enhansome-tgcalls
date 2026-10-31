@@ -57,8 +57,8 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-26T20:36:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-31T01:32:06Z",
+            "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
             "stars": 446,
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:04:53.271Z",
+    "last_updated": "2026-10-31T14:33:51.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
