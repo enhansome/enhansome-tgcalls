@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 446,
+            "stars": 448,
             "topics": [
               "asynchronous",
               "calls",
@@ -162,45 +162,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Dragon-Userbot",
-          "description": "Just a userbot with a module for voice chats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Userbot for telegram with easiest installation",
-            "homepage": null,
-            "id": 272690859,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2025-04-21T11:11:31Z",
-            "open_issues": 0,
-            "owner": "Dragon-Userbot",
-            "repo": "Dragon-Userbot",
-            "stars": 375,
-            "topics": [
-              "bot",
-              "dragon-userbot",
-              "music-player-bot",
-              "pyrogram",
-              "pytgcalls",
-              "python",
-              "python3",
-              "self-bot-telegram",
-              "telegram",
-              "telegram-api",
-              "telegram-bot",
-              "telegram-userbot",
-              "telegram-voice-chat",
-              "userbot",
-              "userbot-telegram",
-              "voice-chat",
-              "voice-chats"
-            ]
-          },
-          "first_seen": "2026-08-28T20:13:13.313Z"
-        },
-        {
-          "node_type": "item",
           "title": "TheHamkerCat/Telegram_VC_Bot",
           "description": "A bot that can play music from various sources in VC.",
           "children": [],
@@ -235,6 +196,45 @@
               "tgvcbot",
               "theme",
               "youtube"
+            ]
+          },
+          "first_seen": "2026-08-28T20:13:13.313Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dragon-Userbot",
+          "description": "Just a userbot with a module for voice chats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Userbot for telegram with easiest installation",
+            "homepage": null,
+            "id": 272690859,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2025-04-21T11:11:31Z",
+            "open_issues": 0,
+            "owner": "Dragon-Userbot",
+            "repo": "Dragon-Userbot",
+            "stars": 374,
+            "topics": [
+              "bot",
+              "dragon-userbot",
+              "music-player-bot",
+              "pyrogram",
+              "pytgcalls",
+              "python",
+              "python3",
+              "self-bot-telegram",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-userbot",
+              "telegram-voice-chat",
+              "userbot",
+              "userbot-telegram",
+              "voice-chat",
+              "voice-chats"
             ]
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:33:51.742Z",
+    "last_updated": "2026-11-01T15:14:41.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
