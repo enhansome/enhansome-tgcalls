@@ -57,8 +57,8 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-31T01:32:06Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-02T21:13:55Z",
+            "open_issues": 2,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
             "stars": 449,
@@ -176,7 +176,7 @@
             "open_issues": 0,
             "owner": "TheHamkerCat",
             "repo": "Telegram_VC_Bot",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "bot",
               "heroku",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:26:28.759Z",
+    "last_updated": "2026-11-03T16:17:50.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
