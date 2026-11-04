@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "Dragon-Userbot",
             "repo": "Dragon-Userbot",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "bot",
               "dragon-userbot",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "callsmusic",
             "repo": "remix",
-            "stars": 189,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:17:50.538Z",
+    "last_updated": "2026-11-04T16:21:58.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
