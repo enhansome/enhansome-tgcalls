@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "asynchronous",
               "calls",
@@ -255,7 +255,7 @@
             "open_issues": 5,
             "owner": "AsmSafone",
             "repo": "VideoPlayerBot",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "bot",
               "hacktoberfest",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:30:06.452Z",
+    "last_updated": "2026-11-06T15:57:33.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
