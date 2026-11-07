@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 551,
+            "stars": 550,
             "topics": [
               "async",
               "asynchronous",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "asynchronous",
               "calls",
@@ -255,7 +255,7 @@
             "open_issues": 5,
             "owner": "AsmSafone",
             "repo": "VideoPlayerBot",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "bot",
               "hacktoberfest",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:57:33.113Z",
+    "last_updated": "2026-11-07T14:55:32.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
