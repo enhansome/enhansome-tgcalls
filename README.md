@@ -43,7 +43,7 @@ The repository contains useful information for Telegram users who are looking fo
 * [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) ⚠️ Archived - A Voice Chat UserBot with playlist and Heroku support.
 * [callsmusic/vcpb](https://github.com/callsmusic/vcpb) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2021-12-14 - A bot which requires a Telegram client running separately to forward the audio played via MPV (supports streaming radio).
 * [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) ⭐ 98 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-12 - A telegram bot (+userbot) written in TypeScript to play music in group voice chat. Supports JioSaavn, YouTube and Files.
-* [VCPlayerbot Bot](https://github.com/kshubham506/vcplayerbot) ⭐ 55 | 🐛 5 | 🌐 Python | 📅 2022-08-15 - An Audio/Video Player Bot based on `MarshalX/tgcalls`(Video player is in dev branch). It can stream any YouTube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db.
+* [VCPlayerbot Bot](https://github.com/kshubham506/vcplayerbot) ⭐ 56 | 🐛 5 | 🌐 Python | 📅 2022-08-15 - An Audio/Video Player Bot based on `MarshalX/tgcalls`(Video player is in dev branch). It can stream any YouTube video, maintain song queue, has admin lock feature and also logs songs played and chats added in db.
 * [tgcallsjs/LemonJamsBot](https://github.com/tgcallsjs/LemonJamsBot) ⭐ 51 | 🐛 2 | 🌐 TypeScript | 📅 2021-08-02 - A userbot that plays music in voice chats and is based on `tgcallsjs`.
 * [Ohto Ai](https://github.com/Zack-Bloodshot/Ohto-Ai) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2023-10-06 - Yet another awesome, anime based, deployable, multi group, music bot based on `MarshalX/tgcalls`.
 
@@ -64,4 +64,4 @@ The repository contains useful information for Telegram users who are looking fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

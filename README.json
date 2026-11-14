@@ -391,7 +391,7 @@
             "open_issues": 5,
             "owner": "kshubham506",
             "repo": "vcplayerbot",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "bot",
               "music",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:29:16.947Z",
+    "last_updated": "2026-11-14T15:08:22.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
