@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "MarshalX",
             "repo": "tgcalls",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "async",
               "asynchronous",
@@ -57,7 +57,7 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-15T01:49:01Z",
+            "last_commit": "2026-11-17T06:25:25Z",
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
@@ -308,7 +308,7 @@
             "open_issues": 3,
             "owner": "callsmusic",
             "repo": "tgvc-userbot",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "calls",
               "group-chat",
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:37:28.735Z",
+    "last_updated": "2026-11-17T17:39:09.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
@@ -478,7 +478,7 @@
       "open_issues": 1,
       "owner": "tgcalls",
       "repo": "awesome-tgcalls",
-      "stars": 109,
+      "stars": 110,
       "topics": [
         "awesome",
         "awesome-list",
