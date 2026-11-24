@@ -57,7 +57,7 @@
             "id": 341369834,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-23T01:06:20Z",
+            "last_commit": "2026-11-24T08:42:17Z",
             "open_issues": 1,
             "owner": "pytgcalls",
             "repo": "pytgcalls",
@@ -255,7 +255,7 @@
             "open_issues": 4,
             "owner": "AsmSafone",
             "repo": "VideoPlayerBot",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "bot",
               "hacktoberfest",
@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "callsmusic",
             "repo": "remix",
-            "stars": 188,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:13.313Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:16:57.617Z",
+    "last_updated": "2026-11-24T19:31:18.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects for Telegram Calls.",
